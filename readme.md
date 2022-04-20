@@ -74,7 +74,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
         - [HD Streaming](#hd-streaming)
         - [Big Media Libraries](#big-media-libraries)
         - [TV](#tv)
-        - [Anime](#anime)
+        - [Anime Torrenting](#anime-torrents)
+        - [Anime Streaming](#anime-streaming)
         - [Cartoons](#cartoons)
         - [Sports Streaming](#sports-streaming)
         - [Specialty Sites](#specialty-sites)
@@ -92,6 +93,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Kodi](#kodi)
 - [Gaming](#gaming)
     - [Repacks](#repacks)
+    - [Emulators](#emulators)
     - [ROMs](#roms)
     - [Console Games](#console-games)
     - [Homebrew and Custom Firmware](#homebrew-and-custom-firmware)
@@ -146,30 +148,27 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## VPNs
 
 ### VPN Guides and Tutorials
-- [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
-- [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
-- [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
+- [Which VPN Providers Really Take Privacy Seriously in 2021?](https://torrentfreak.com/best-vpn-anonymous-no-logging/) TorrentFreak Article by Ernesto
+- [privacyguides.org](https://privacyguides.org) 🌟 From the team that headed privacytools.io. More updated information to protect your privacy online.
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-- [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
+- [Mullvad](https://mullvad.net/en/) :star2: A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
-- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
+- [IVPN](https://www.ivpn.net) Resist online surveillance
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [OpenVPN](https://openvpn.net/) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [WireGuard VPN](https://www.wireguard.com/) :star2: WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 - [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
 - [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
@@ -179,19 +178,16 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browser Extensions
-- [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
-- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
+- [Arkenfox.js Browser Extension Recommendations] (https://github.com/arkenfox/user.js/wiki/4.1-Extensions) 🌟 Arkenfox Browser Extensions recommendation along with ones to avoid.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
-- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- [Fast Forward](https://fastforward.team/) A maintained fork of Universal Bypass. Use FastForward to skip annoying URL "shorteners."
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
@@ -239,6 +235,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+- [Floris Board](https://github.com/florisboard/florisboard) An open-source keyboard for Android which respects your privacy.
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -344,15 +341,12 @@ for any IP address.
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 #### Public Trackers
-- [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
+- [1337x](https://1337x.to/) :star2: 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
-- [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
-- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
-- [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Torrentz2](https://torrentz2.is/) A good replacement of the defunct Torrentz.eu [other](https://torrentsmirror.com/) [mirrors](https://torrentz.pl/)
 - [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
@@ -401,7 +395,7 @@ for any IP address.
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
 
 ### Torrent Clients
-- [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
+- [qBitTorrent](https://www.qbittorrent.org/) :star2: Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
@@ -414,6 +408,7 @@ for any IP address.
 - [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 - [RapidBay](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
+- [Motrix] (https://motrix.app/) A full-featured download manager. Support downloading HTTP, FTP, BitTorrent, Magnet, etc.
 
 #### Deluge
 - [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
@@ -423,7 +418,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
 
 #### rTorrent
-- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
+- [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++
 - [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
 - [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) GitHub wiki for rTorrent
 - [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
@@ -555,7 +550,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 - [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
-- [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
 - [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 - [NZBVortex 3](https://www.nzbvortex.com/landing/) Simply the best Usenet client for Mac
@@ -564,7 +558,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 ## Direct Downloads
 
 ### Download Managers
-- [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [JDownloader2](https://jdownloader.org/jdownloader2) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
 - [Persepolis](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
@@ -573,6 +567,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 - [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
+- [uGet] (https://ugetdm.com/) Another open source download manager
 
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
@@ -743,29 +738,27 @@ premium services
 - [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
 - [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
 
-#### Anime
-- [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
+#### Anime Torrents
+- [Nyaa](https://nyaa.si/) :star2: The Largest Anime, Manga, Hentai, etc. Public Tracker.
+- [Piracy.moe](https://piracy.moe) More information on where to get anime.
+- [MS Paint Anime Torrent Guide](https://old.reddit.com/r/animepiracy/comments/nky4xk/ms_paint_anime_torrent_guide/) A nice little infographic about torrenting qualities.
 - [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 - [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
-- [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
-- [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
-- [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
-- [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
-- [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
-- [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+- [/r/animepiracy wiki](https://wiki.piracy.moe) Lists for sourcing Anime streaming sites, manga sites, and more
 - [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
-- [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
-- [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
-- [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
-- [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
-- [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
-- [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
-- [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
-- [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+
+#### Anime Streaming
+- [Aniyomi](https://github.com/jmir1/aniyomi) :star2: A Tachiyomi fork with anime streaming capabilities. Android Only
+- [CloudStream-3](https://github.com/LagradOst/CloudStream-3) Android app for streaming and downloading Movies, TV-Series and Anime
+- [AnimixPlay](https://animixplay.to) Watch HD anime for free
+- [tenshi.moe](https://tenshi.moe) Artificial Heaven. High quality with a smaller library.
+- [9anime](https://9anime.to)
+- [Anime Twist](https://twist.moe)
+- [Zoro.to](https://zoro.to)
+- [hanime](https://hanime.tv)
 
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
@@ -794,6 +787,7 @@ premium services
 - [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
+- [nflbite](https://nflbite.com) American football streaming site.
 
 #### Specialty Sites
 - [Einthusan](https://einthusan.tv/intro/) Foreign
@@ -972,7 +966,9 @@ premium services
 - [Burst](http://burst.surge.sh) A torrent content provider to the Quasar plugin.
 
 ## Gaming
-- [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
+- [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here
+- [/r/piratedgames](https://reddit.com/r/PiratedGames/) Talk about gaming piracy.
+- [/r/piratedgames megathread](https://rentry.co/pgames-mega-thread) :star2: Curated list of trustworthy sources along with which places to avoid.
 - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) Reddit post by /u/EssenseOfMagic
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
@@ -988,12 +984,21 @@ premium services
 
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
-- [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
+- [Dodi Repacks](https://dodi-repacks.site/) :star2: Another popular DDL and torrent repacker.
+- [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents. No longer repacks games on the account of being dead.
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
-- [qoob.name](http://qoob.name/) Repacker site
-- [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
+- [qoob.name](http://qoob.name/) Repacker site in Russian
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+
+### Emulators
+- [r/piratedgames recommended emulators](https://rentry.co/pgames-mega-thread#emulators) I don't feel like listing all of the emulators
+- [Citra](https://citra-emu.org/) :star2: 3DS Emulator. Games must be decrypted in order to play.
+- [3DS Batch Decrypter](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) 3DS game decryptor.
+- [Yuzu](https://yuzu-emu.org/) Nintendo Switch Emulator.
+- [Dolphin](https://dolphin-emu.org/) Wii and Gamecube emulator.
+- [https://desmume.org/](https://desmume.org/) DS emulator.
+- [https://mgba.io/](https://mgba.io/) GBA emulator 
 
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
@@ -1067,12 +1072,14 @@ premium services
 
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Adblock](https://github.com/abba23/spotify-adblock) Block spotify ads on Linux. DOES NOT WORK WITH SNAP.
+- [Spotify Adblock on Fedora](https://note.rojenz.de/post/spotify-adblock-fedora-34/) Block spotify ads on Fedora Linux. Still does not work with snap.
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
-- [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
-- [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+- [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=4779753) Modded APK with no ads and AMOLED.
+- [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify. Spotify Premium is required.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
@@ -1095,6 +1102,7 @@ premium services
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 
 ### Adobe CC
+- [Monkrus.ws](https://w14.monkrus.ws/) :star2: Best place for cracked Adobe Products
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 - [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
 - [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
@@ -1173,7 +1181,10 @@ premium services
 - [Omnibus](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
 
 ## Manga
-- [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
+- [MangaDex](https://www.mangadex.org/) :star2: MangaDex is an online manga reader that caters to all languages.
+- [Manga4Life](https://manga4life.com/) Scans of the official Manga
+- [MangaSee](https://mangasee123.com/) Likely the exact same of Manga4Life
+- [NHentai](https://nhentai.net) :star2: The best source for hentai.
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami](https://manga.madokami.al/) Requires sign-up (currently closed), see mirrors below.
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
@@ -1568,5 +1579,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Igglybuff has waived all copyright and
+To the extent possible under law, Tosoju has waived all copyright and
 related or neighboring rights to this work.
