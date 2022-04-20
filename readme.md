@@ -178,7 +178,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browser Extensions
-- [Arkenfox.js Browser Extension Recommendations] (https://github.com/arkenfox/user.js/wiki/4.1-Extensions) 🌟 Arkenfox Browser Extensions recommendation along with ones to avoid.
+- [Arkenfox.js Browser Extension Recommendations](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) 🌟 Arkenfox Browser Extensions recommendation along with ones to avoid.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
