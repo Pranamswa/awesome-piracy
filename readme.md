@@ -6,9 +6,9 @@
 I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. 
 
 I also plan on adding more sections, such as
--Youtube Clients
--Nyaa Stuff
--File Hosting (Both private and public)
+- Youtube Clients
+- Nyaa Stuff
+- File Hosting (Both private and public)
 
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
