@@ -124,7 +124,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [P2P Networks](#p2p-networks)
 - [Ripping, Transcoding, Converting, Encoding](#ripping-transcoding-converting-encoding)
 - [Cloud Storage](#cloud-storage)
-    -[Self-hosted File Storage/Sharing](#Self-hosted-File-Storage/Sharing)
+    - [Self-hosted File Storage/Sharing](#Self-hosted-File-Storage-or-Sharing)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
     - [Streaming Apps](#streaming-apps)
@@ -1245,7 +1245,7 @@ premium services
 
 ## Cloud Storage
 
-### Self-hosted File Storage/Sharing
+### Self-hosted File Storage or Sharing
 - [https://nextcloud.com/](https://nextcloud.com/) The self-hosted productivity platform that keeps you in control
 - [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
 - [Chevereto](https://chevereto.com/) Get your own turnkey image hosting system today. Start your own image sharing website with your own rules.
