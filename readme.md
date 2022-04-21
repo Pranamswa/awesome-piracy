@@ -8,7 +8,7 @@ I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuf
 I also plan on adding more sections, such as
 - Youtube Clients
 - Nyaa Stuff
-- File Hosting (Both private and public)
+- File Hosting (Both private and public) --> Cloud Storage
 
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
@@ -124,6 +124,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [P2P Networks](#p2p-networks)
 - [Ripping, Transcoding, Converting, Encoding](#ripping-transcoding-converting-encoding)
 - [Cloud Storage](#cloud-storage)
+    -[Self-hosted File Storage/Sharing](#Self-hosted-File-Storage/Sharing)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
     - [Streaming Apps](#streaming-apps)
@@ -1243,6 +1244,19 @@ premium services
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
 
 ## Cloud Storage
+
+### Self-hosted File Storage/Sharing
+- [https://nextcloud.com/](https://nextcloud.com/) The self-hosted productivity platform that keeps you in control
+- [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
+- [Chevereto](https://chevereto.com/) Get your own turnkey image hosting system today. Start your own image sharing website with your own rules.
+- [Lufi](https://github.com/ldidry/lufi) Let's Upload that FIle. Encrypted file sharing.
+- [Lainsafe](https://github.com/dimethyltriptamine/lainsafe) Simple file uploading.
+- [Chibisafe](https://github.com/WeebDev/chibisafe) Blazing fast file uploader and awesome bunker written in node!
+
+### 3rd Party Cloud Storage
+- [Proton Drive](https://github.com/ProtonMail/WebClients) Beta Cloud Storage run by the same company as ProtonVPN.
+- [Crytp.ee](https://crypt.ee/) Made in europe, for your privacy, security & peace of mind. We can't read your documents or see your photos, and no one else can either.
+- [Skiff](https://skiff.org/) Productivity Suite, a private, end-to-end encrypted workspace.
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
 - [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -1253,6 +1267,15 @@ premium services
 - [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
+- [Upload.systems](https://upload.systems] The superior image hosting, with support for Windows, macOS and Linux via a variety of applications.
+- [Horizon.pics](https://horizon.pics) A fast, reliable and highly customizable invite only file host.
+- [Catbox.moe](https://catbox.moe) A file uploader for cats
+
+### File Sharing
+-[Pomfcrawl](https://pomfcrawl.pythonanywhere.com/) A lot of pomf clones that have all their own privacy policies. A LOT OF LINKS DO NOT WORK.
+-[Sxcu.net](https://sxcu.net) Custom domains for image sharing with sharex support in mind
+-[Gofile.io](https://gofile.io) File sharing and storage platform, unlimited and free
+-[List of sharex compatable uploaders](https://github.com/ShareX/CustomUploaders) Take out .sxcu to access the site. Some domains don't work or are invite-only.
 
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
