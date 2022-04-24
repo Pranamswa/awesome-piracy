@@ -8,7 +8,8 @@ I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuf
 I also plan on adding more sections, such as
 - Youtube Clients
 - Nyaa Stuff
-- File Hosting (Both private and public) --> Cloud Storage
+
+I'm also mirroring this onto [rentry](https://rentry.co).
 
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
@@ -125,6 +126,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Ripping, Transcoding, Converting, Encoding](#ripping-transcoding-converting-encoding)
 - [Cloud Storage](#cloud-storage)
     - [Self-hosted File Storage/Sharing](#Self-hosted-File-Storage-or-Sharing)
+    - [3rd Party Cloud Storage](#3rd-party-cloud-storage)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
     - [Streaming Apps](#streaming-apps)
@@ -147,6 +149,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [File Sharing Tools](#file-sharing-tools)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
+- [Porn](#adult-content)
 - [Miscellaneous](#miscellaneous)
 
 ## VPNs
@@ -777,7 +780,7 @@ premium services
 - [Archive.org](https://archive.org/) Old movies
 - [MioMio](http://www.miomio.tv/) Asian TV shows/anime
 
-#### Third Party Hosts
+#### Openload Hosts
 - [MovieZion](https://www.nicemoviezion.pro/) Openload
 - [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
 - [MovieJagg](https://www.coolmoviejagg.pro/) Openload
@@ -807,6 +810,16 @@ premium services
 - [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
+
+#### Youtube Streaming
+-[Piped](https://piped.kavin.rocks/) :star2: A less-bloated ad-free [Youtube frontend](https://github.com/TeamPiped/Piped).
+-[Invidious](https://invidious.io/) The original inspiration for piped. Depending on the host, it sometimes breaks. Still a decent option that doesn't rely on JavaScript. Ad-free
+-[Newpipe](https://github.com/TeamNewPipe/NewPipe) A mobile ad-free frontend. No Google Dependencies. 
+-[Newpipe with Sponsorblock and Return Youtube Dislikes](https://github.com/polymorphicshade/NewPipe) A Newpipe fork with Sponsorblock and Return Youtube Dislike functionality.
+-[LibreTube](https://github.com/libre-tube/LibreTube) A mobile app built on Piped.
+-[SkyTube](https://skytube-app.com/) An open-source YouTube™ app for Android™
+-[ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team)
+-[VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
@@ -1295,24 +1308,18 @@ premium services
 
 ## Mobile Apps
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
-- [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
-- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
 - [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
-- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
-- [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
-- [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - ["My little guide for piracy on iPhone"](https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/) Post by /u/Impulse_13
-- [nzbUnity](https://nzbunity.dozenzb.com/) iOS app for managing your favourite NZB applications
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
-- [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more. Will no longer receive updates due to a Cease and Desist from Google. 
 
 ### Streaming Apps
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
@@ -1347,6 +1354,7 @@ premium services
 ### APKs
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
 - [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+- [Neo-Store/Droidify](https://github.com/NeoApplications/Neo-Store) Material UI F-Droid. It has better categorization and customization.
 - [Yalp Store](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
 - [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
 - [On HAX](https://onhax.me/) APK mirrors
@@ -1532,6 +1540,10 @@ premium services
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
+## Adult Content
+-[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/) :star2: List of full length porn tube websites.
+-[Thotsbay](https://forum.thotsbay.com) Leaked premium adult content.
+
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
@@ -1547,17 +1559,14 @@ premium services
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
 - [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
-- [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-- [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
 - [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 - [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
-- [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
 - [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
 - [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
@@ -1567,7 +1576,6 @@ premium services
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
-- [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
