@@ -6,10 +6,10 @@
 I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. 
 
 I also plan on adding more sections, such as
-- Youtube Clients
 - Nyaa Stuff
 
-I'm also mirroring this onto [rentry](https://rentry.co).
+
+I'm also mirroring this onto [rentry](https://rentry.co/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
 
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
