@@ -1290,7 +1290,6 @@ premium services
 - [Sxcu.net](https://sxcu.net) Custom domains for image sharing with sharex support in mind
 - [Gofile.io](https://gofile.io) File sharing and storage platform, unlimited and free
 - [List of sharex compatable uploaders](https://github.com/ShareX/CustomUploaders) Take out .sxcu to access the site. Some domains don't work or are invite-only.
-- 
 
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
