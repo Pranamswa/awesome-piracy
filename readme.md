@@ -1066,6 +1066,7 @@ premium services
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=4779753) Modded APK with no ads and AMOLED.
 - [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify. Spotify Premium is required.
+- [ClSpotify](https://agent255.github.io/clspotifyweb/) A Spotify downloader needing only a python interpreter and ffmpeg.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
