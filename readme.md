@@ -818,8 +818,8 @@ premium services
 -[Newpipe with Sponsorblock and Return Youtube Dislikes](https://github.com/polymorphicshade/NewPipe) A Newpipe fork with Sponsorblock and Return Youtube Dislike functionality.
 -[LibreTube](https://github.com/libre-tube/LibreTube) A mobile app built on Piped.
 -[SkyTube](https://skytube-app.com/) An open-source YouTube™ app for Android™
--[ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team)
--[VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
+-[ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team). Currently a Work in progress
+-[VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more). Work in Progress
 
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
