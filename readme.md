@@ -1357,11 +1357,10 @@ premium services
 
 ### APKs
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
-- [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+- [F-Droid](https://f-droid.org/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
 - [Neo-Store/Droidify](https://github.com/NeoApplications/Neo-Store) Material UI F-Droid. It has better categorization and customization.
 - [Yalp Store](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
 - [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
-- [On HAX](https://onhax.me/) APK mirrors
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
 - [ApkPure](https://apkpure.com/) Another free APK mirror site
 - [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
@@ -1370,7 +1369,6 @@ premium services
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 - [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on Reddit."
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) Modded Android app releases subreddit.
-- [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid
 - [Lucky Patcher](https://www.luckypatchers.com/) Patch mobile games to get in app purchases for free. DO NOT USE TO CHEAT IN MULTIPLAYER GAMES ELSE YOU GET BANNED.
