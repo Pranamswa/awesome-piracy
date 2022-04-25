@@ -9,7 +9,7 @@ I also plan on adding more sections, such as
 - Nyaa Stuff
 
 
-I'm also mirroring this onto [rentry](https://rentry.co/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
+I'm also mirroring this onto [rentry](https://rentry.org/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
 
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
@@ -1372,7 +1372,8 @@ premium services
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) Modded Android app releases subreddit.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
-- [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
+- [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid
+- [Lucky Patcher](https://www.luckypatchers.com/) Patch mobile games to get in app purchases for free. DO NOT USE TO CHEAT IN MULTIPLAYER GAMES ELSE YOU GET BANNED.
 
 ## Discord Servers
 - [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
