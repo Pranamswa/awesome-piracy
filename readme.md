@@ -274,9 +274,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
-- [Arch Linux](https://archlinux.org/) A lightweight and flexible Linux® distribution that tries to Keep It Simple. Recommended for those with experience
-- [Fedora Linux](https://getfedora.org/) A Linux OS developed by Red Hat. Good for all levels of linux experience.
-- [Linux Mint](https://linuxmint.com/) A Ubuntu derivative designed to be user friendly. Recommended for beginners.
+- [Whonix](https://www.whonix.org/) Another OS that forces connections through TOR. Comes with Qubes.
+- [Arch Linux](https://archlinux.org/) :star2: A lightweight and flexible Linux® distribution that tries to Keep It Simple. Recommended for those with experience. Uses pacman package manager
+- [Fedora Linux](https://getfedora.org/) :star2: A Linux OS developed by Red Hat. Good for all levels of linux experience. Uses dnf package manager
+- [Linux Mint](https://linuxmint.com/) A Ubuntu derivative designed to be user friendly. Recommended for beginners. Uses apt package manager.
+- [Manjaro](https://manjaro.org/) An arch-based OS with rolling releases designed to be a little bit more user friendly.
+- [EndeavourOS](https://endeavouros.com/) Another arch-based terminal-centric distro with a vibrant and friendly community at its core.
+- [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) Another OS for all levels. Uses zypper package manager.
 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
