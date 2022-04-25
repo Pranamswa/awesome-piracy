@@ -147,6 +147,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Dashboards and Homepages](#dashboards-and-homepages)
 - [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
+- [Developers of Miscellaneous Projects](#developers-of-miscellaneous-projects)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Porn](#adult-content)
@@ -1286,15 +1287,6 @@ premium services
 - [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
-- [Upload.systems](https://upload.systems) The superior image hosting, with support for Windows, macOS and Linux via a variety of applications.
-- [Horizon.pics](https://horizon.pics) A fast, reliable and highly customizable invite only file host.
-- [Catbox.moe](https://catbox.moe) A file uploader for cats
-
-### File Sharing
-- [Pomfcrawl](https://pomfcrawl.pythonanywhere.com/) A lot of pomf clones that have all their own privacy policies. A LOT OF LINKS DO NOT WORK.
-- [Sxcu.net](https://sxcu.net) Custom domains for image sharing with sharex support in mind
-- [Gofile.io](https://gofile.io) File sharing and storage platform, unlimited and free
-- [List of sharex compatable uploaders](https://github.com/ShareX/CustomUploaders) Take out .sxcu to access the site. Some domains don't work or are invite-only.
 
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
@@ -1512,10 +1504,28 @@ premium services
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
-- [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
-- [dmca.gripe](https://dmca.gripe/) A DMCA-resistant, permanent file hosting service.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+- [Pomfcrawl](https://pomfcrawl.pythonanywhere.com/) A lot of pomf clones that have all their own privacy policies. A LOT OF LINKS DO NOT WORK.
+- [Sxcu.net](https://sxcu.net) Custom domains for image sharing with sharex support in mind
+- [Gofile.io](https://gofile.io) File sharing and storage platform, unlimited and free
+- [List of sharex compatable uploaders](https://github.com/ShareX/CustomUploaders) Take out .sxcu to access the site. Some domains don't work or are invite-only.
+- [Upload.systems](https://upload.systems) The superior image hosting, with support for Windows, macOS and Linux via a variety of applications.
+- [Horizon.pics](https://horizon.pics) A fast, reliable and highly customizable invite only file host.
+- [Catbox.moe](https://catbox.moe) A file uploader for cats
+- [Lainsafe](https://github.com/dimethyltriptamine/lainsafe) Shitless file upload, pastebin and url shorter.
+
+## Developers of Miscellaneous Projects
+- [http.james](https://httpjames.space/projects) :star2:
+- [Silkky.cloud](https://www.silkky.cloud/)
+- [Riverside.rocks](https://riverside.rocks/services)
+- [ebin.city](https://ebin.city/)
+- [bus-hit.me](https://bus-hit.me/)
+- [snopyta](https://snopyta.org/)
+- [NixNet](https://nixnet.services/)
+- [Delegao](https://delegao.moe/)
+- [roflcopter.fr](https://wtf.roflcopter.fr/apps/#Homepage)
+- And many more...
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
@@ -1544,8 +1554,8 @@ premium services
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Adult Content
--[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/) :star2: List of full length porn tube websites.
--[Thotsbay](https://forum.thotsbay.com) Leaked premium adult content.
+- [Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/) :star2: List of full length porn tube websites.
+- [Thotsbay](https://forum.thotsbay.com) Leaked premium adult content.
 
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
