@@ -147,7 +147,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Dashboards and Homepages](#dashboards-and-homepages)
 - [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
-- [Developers of Miscellaneous Projects](#developers-of-miscellaneous-projects)
+- [Hosters of Miscellaneous Projects](#hosters-of-miscellaneous-projects)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Porn](#adult-content)
@@ -729,6 +729,11 @@ premium services
 - [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
+
+#### Quality Nyaa.si Uploaders
+- [Quality Guide on wiki.piracy.moe](https://wiki.piracy.moe/en/guides/quality) Information as to all of the inner workings of quality
+- [Judas Encodes](https://nyaa.si/user/Judas) :star2: The most reputable mini uploader. Ideal for low storage and/or phone watching
+- [neoHEVC](https://nyaa.si/user/neoborn) Another underrated mini uploader
 
 #### Anime Streaming
 - [Aniyomi](https://github.com/jmir1/aniyomi) :star2: A Tachiyomi fork with anime streaming capabilities. Android Only
@@ -1515,7 +1520,7 @@ premium services
 - [Catbox.moe](https://catbox.moe) A file uploader for cats
 - [Lainsafe](https://github.com/dimethyltriptamine/lainsafe) Shitless file upload, pastebin and url shorter.
 
-## Developers of Miscellaneous Projects
+## Hosters of Miscellaneous Projects
 - [http.james](https://httpjames.space/projects) :star2:
 - [Silkky.cloud](https://www.silkky.cloud/)
 - [Riverside.rocks](https://riverside.rocks/services)
