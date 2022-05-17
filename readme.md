@@ -1522,13 +1522,15 @@ premium services
 
 ## Hosters of Miscellaneous Projects
 - [http.james](https://httpjames.space/projects) :star2:
-- [Silkky.cloud](https://www.silkky.cloud/)
+- [Datahoarder.dev](https://datahoarder.dev/)
+- [Tedomum](https://tedomum.net/)
 - [Riverside.rocks](https://riverside.rocks/services)
 - [ebin.city](https://ebin.city/)
 - [bus-hit.me](https://bus-hit.me/)
 - [snopyta](https://snopyta.org/)
 - [NixNet](https://nixnet.services/)
 - [Delegao](https://delegao.moe/)
+- [envs](https://envs.net/)
 - [roflcopter.fr](https://wtf.roflcopter.fr/apps/#Homepage)
 - And many more...
 
