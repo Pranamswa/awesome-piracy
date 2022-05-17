@@ -1,29 +1,29 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+​
 > A curated list of arrrrrrrrr!
-
+​
 ## Preamble
 I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. 
-
+​
 I also plan on adding more sections, such as
 - Nyaa Stuff
-
-
+​
+​
 I'm also mirroring this onto [rentry](https://rentry.org/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
-
+​
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
-
+​
 For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
-
+​
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
-
+​
 ## Emoji
 You will notice some items on this list have a :star2: next to them. Items with a :star2: represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible.
-
+​
 ## Background Information
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
-
+​
 ## Contents
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
@@ -152,9 +152,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Telegram Piracy](#telegram-piracy)
 - [Porn](#adult-content)
 - [Miscellaneous](#miscellaneous)
-
+​
 ## VPNs
-
+​
 ### VPN Guides and Tutorials
 - [privacyguides.org](https://privacyguides.org) 🌟 From the team that headed privacytools.io. More updated information to protect your privacy online.
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
@@ -164,13 +164,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPN Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) Compare VPNs to each other to find what's right for you.
 - - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - - [Which VPN Providers Really Take Privacy Seriously in 2021?](https://torrentfreak.com/best-vpn-anonymous-no-logging/) TorrentFreak Article by Ernesto
-
+​
 ### VPN Subscription Services
 - [Mullvad](https://mullvad.net/en/) :star2: A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [IVPN](https://www.ivpn.net) Resist online surveillance
-
+​
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
@@ -185,7 +185,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
-
+​
 ## Browser Extensions
 - [Arkenfox.js Browser Extension Recommendations](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) 🌟 Arkenfox Browser Extensions recommendation along with ones to avoid.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -195,7 +195,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 - [Fast Forward](https://fastforward.team/) A maintained fork of Universal Bypass. Use FastForward to skip annoying URL "shorteners."
-
+​
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
@@ -210,7 +210,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 - [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
 - [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more. 1337x.to and rarbg.org coming soon.
-
+​
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
@@ -228,7 +228,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [LessPass](https://lesspass.com/) Stateless open source password manager
 - [Psono](https://psono.com/) Open source and self-hosted password manager for teams
 - [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
-
+​
 ## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
@@ -236,13 +236,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 - [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
 - [Random Anti Virus Tier List](https://www.youtube.com/watch?v=P_kaSPvGEsI)
-
+​
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 - [Floris Board](https://github.com/florisboard/florisboard) An open-source keyboard for Android which respects your privacy.
-
+​
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
@@ -251,7 +251,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
-
+​
 ## Email
 - [Privacyguides Recommended Email List](https://www.privacyguides.org/email) I also listed the recommendations down here.
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
@@ -262,7 +262,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Disroot](https://disroot.org/)
 - [Startmail](https://startmail.com/)
 - [CTemplar](https://ctemplar.com/)
-
+​
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
@@ -271,7 +271,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 - [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
-
+​
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
@@ -282,11 +282,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Manjaro](https://manjaro.org/) An arch-based OS with rolling releases designed to be a little bit more user friendly.
 - [EndeavourOS](https://endeavouros.com/) Another arch-based terminal-centric distro with a vibrant and friendly community at its core.
 - [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) Another OS for all levels. Uses zypper package manager.
-
+​
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
-
+​
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
@@ -299,13 +299,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [mktorrent](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
 - [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
-
+​
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
 - [Bravo List](http://www.bvlist.com/) Tracker directory
-
+​
 #### Private Trackers
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
@@ -337,10 +337,10 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
-
+​
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-
+​
 #### Public Trackers
 - [1337x](https://1337x.to/) :star2: 1337x is a torrent site that offers verified torrent downloads.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
@@ -362,26 +362,26 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [OTorrents](https://otorrents.com/) Yet another public torrent tracker
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
-
+​
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
 - [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
-
+​
 ### Tracker Proxies
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
-
+​
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
 - [/r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
-
+​
 ### Torrent Clients
 - [qBitTorrent](https://www.qbittorrent.org/) :star2: Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
@@ -395,14 +395,14 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 - [RapidBay](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
 - [Motrix](https://motrix.app/) A full-featured download manager. Support downloading HTTP, FTP, BitTorrent, Magnet, etc.
-
+​
 #### Deluge
 - [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
 - [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases)
 ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
-
+​
 #### rTorrent
 - [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++
 - [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
@@ -416,21 +416,21 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [pyrocore](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
 - [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
-
+​
 #### WebTorrent Clients
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
-
+​
 ### autodl-irssi
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
-
+​
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
 - [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-
+​
 #### Web-based Cloud Seedboxes
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
 - [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
@@ -441,7 +441,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Boxopus](https://boxopus.com/) No free trial, plans start at $0.99 per day
 - [Put.io](https://put.io/) $0.99 1 day trial
 - [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
-
+​
 #### Seedbox Hosting Providers
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
@@ -462,7 +462,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
 - [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
 - [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
-
+​
 #### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) a light, modular package management suite for media-oriented servers
 - [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
@@ -472,7 +472,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
-
+​
 ### Tracker Frameworks
 - [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
@@ -480,7 +480,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 - [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
 - [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
-
+​
 ## Usenet
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
@@ -491,7 +491,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 - [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper-tool
 - [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
-
+​
 ### Usenet Providers
 - [Usenet Providers and Backbones](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [A Quick Guide to Choosing a Usenet Provider](https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/) Reddit post by /u/FlickFreak
@@ -500,16 +500,16 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) Popular Usenet provider with a competitive subscription fee
 - [Usenet Express](http://usenetexpress.com/) UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
 - [Usenet.Farm](https://usenet.farm/) Usenet reseller with 1000+ days retention.
-
+​
 ### Usenet Indexers
 - [/r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) Information about /r/Usenet's favourite indexing services
-
+​
 #### Usenet Indexing Software
 - [nZEDb](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [newznab-tmux](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
 - [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
 - [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
-
+​
 #### Paid Indexers
 - [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
 - [NZBFinder](https://nzbfinder.ws/) Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
@@ -517,7 +517,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [NZBCat](https://nzb.cat/) Meow *cough* nzb-hair-bal.
 - [DOGnzb](https://dognzb.cr/login) Invite-only NZB site.
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name.
-
+​
 #### Free Indexers
 - [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
 - [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users
@@ -525,7 +525,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
 - [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 - [GingaDADDY](https://www.gingadaddy.com/) Another popular free NZB indexer, requires sign-up
-
+​
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
@@ -534,9 +534,9 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 - [NZBVortex 3](https://www.nzbvortex.com/landing/) Simply the best Usenet client for Mac
 - [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
-
+​
 ## Direct Downloads
-
+​
 ### Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
@@ -548,7 +548,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 - [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 - [uGet](https://ugetdm.com/) Another open source download manager
-
+​
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
@@ -577,7 +577,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 - [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
-
+​
 ### Custom Google Search Engines
 - These all do the same thing:
     - [FileChef](http://filechef.com/)
@@ -586,12 +586,12 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
     - [lumpySoft.com](https://lumpysoft.com/)
 - [Musgle](http://www.musgle.com/) Searches specifically for music
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
-
+​
 ### FTP Indexers
 - [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
 - [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
-
+​
 ### DDL Search Engines and Crawlers
 - [ololo](https://ololo.to/) ololo is a video streaming link search engine.
 - [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
@@ -601,7 +601,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
 - [IPLIVE](https://iplive.club/) DDL search engine
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
-
+​
 ### DDL Link Sites
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
@@ -641,7 +641,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [480mkv](http://480mkv.com/) 480p DDL for TV Shows
 - [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
 - [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
-
+​
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
 - [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
@@ -650,7 +650,7 @@ premium services
 - [Premiumizer](https://github.com/piejanssens/premiumizer) Premiumizer is a download management tool for premiumize.me cloud downloads.
 - [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 - [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
-
+​
 ### Premium Link Hosts
 - [File sharing table](https://nafanz.github.io/) Regularly updated table of information about file hosts.
 - [Mega](https://mega.nz/) :star2:
@@ -663,7 +663,7 @@ premium services
 - [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
-
+​
 ### Open Directories
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
 - ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
@@ -676,10 +676,10 @@ premium services
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 - [andesite](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
-
+​
 ### Streaming Sites
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
-
+​
 #### HD Streaming
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
@@ -703,7 +703,7 @@ premium services
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
 - [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
-
+​
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
 - [5Movies](http://5movies.to/) Large collection dating as far back as 1990
@@ -713,11 +713,11 @@ premium services
 - [Afdah](http://afdah.to/) Large collection dating as far back as 1920
 - [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
 - [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
-
+​
 #### TV
 - [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
 - [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
-
+​
 #### Anime Torrents
 - [Nyaa](https://nyaa.si/) :star2: The Largest Anime, Manga, Hentai, etc. Public Tracker.
 - [Piracy.moe](https://piracy.moe) More information on where to get anime.
@@ -729,12 +729,12 @@ premium services
 - [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
 - [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
 - [animeEncodes](https://www.animencodes.com/)
-
+​
 #### Quality Nyaa.si Uploaders
 - [Quality Guide on wiki.piracy.moe](https://wiki.piracy.moe/en/guides/quality) Information as to all of the inner workings of quality
 - [Judas Encodes](https://nyaa.si/user/Judas) :star2: The most reputable mini uploader. Ideal for low storage and/or phone watching
 - [neoHEVC](https://nyaa.si/user/neoborn) Another underrated mini uploader
-
+​
 #### Anime Streaming
 - [Aniyomi](https://github.com/jmir1/aniyomi) :star2: A Tachiyomi fork with anime streaming capabilities. Android Only
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3) Android app for streaming and downloading Movies, TV-Series and Anime
@@ -744,7 +744,7 @@ premium services
 - [Anime Twist](https://twist.moe)
 - [Zoro.to](https://zoro.to)
 - [hanime](https://hanime.tv)
-
+​
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
 - [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
@@ -753,7 +753,7 @@ premium services
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
 - [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
-
+​
 #### Sports Streaming
 - [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
 - [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
@@ -773,7 +773,7 @@ premium services
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
 - [nflbite](https://nflbite.com) American football streaming site.
-
+​
 #### Specialty Sites
 - [Einthusan](https://einthusan.tv/intro/) Foreign
 - [Dramago](http://www.dramago.com/) Drama movies/series
@@ -789,7 +789,7 @@ premium services
 - [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Archive.org](https://archive.org/) Old movies
 - [MioMio](http://www.miomio.tv/) Asian TV shows/anime
-
+​
 #### Openload Hosts
 - [MovieZion](https://www.nicemoviezion.pro/) Openload
 - [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
@@ -820,7 +820,7 @@ premium services
 - [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
-
+​
 #### Youtube Streaming
 -[Piped](https://piped.kavin.rocks/) :star2: A less-bloated ad-free [Youtube frontend](https://github.com/TeamPiped/Piped).
 -[Invidious](https://invidious.io/) The original inspiration for piped. Depending on the host, it sometimes breaks. Still a decent option that doesn't rely on JavaScript. Ad-free
@@ -830,7 +830,7 @@ premium services
 -[SkyTube](https://skytube-app.com/) An open-source YouTube™ app for Android™
 -[ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team). Currently a Work in progress
 -[VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more). Work in Progress
-
+​
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -846,7 +846,7 @@ premium services
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
-
+​
 ## Stremio
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
 - [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
@@ -855,7 +855,7 @@ premium services
 - [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
 - [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
 - [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
-
+​
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
@@ -863,7 +863,7 @@ premium services
 - [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 - [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
-
+​
 ### Plex Plugins
 - [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
@@ -883,13 +883,13 @@ premium services
 - [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
 - [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
 - [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
-
+​
 ### Plex Requests
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
-
+​
 ### Plex Scripts and Tools
 - [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
 - [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
@@ -918,27 +918,27 @@ premium services
 - [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
 - [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
-
+​
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
 - [Elysium](https://elysium.to/) Plex media streaming service
-
+​
 ### Plex Transcoding
 - [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
 - [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
 - [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
-
+​
 ### Plex Logging and Metrics
 - [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 - [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
 - [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
-
+​
 ### Plex Clients
 - [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
 - [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
 - [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
-
+​
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
 - [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) :star2: Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
@@ -959,7 +959,7 @@ premium services
 - [Python-GoogleDrive-VideoStream](https://github.com/ddurdle/Python-GoogleDrive-VideoStream) The purpose of this plugin is to serve content delivered in Google Drive plugin for KODI through any HTML5 client.
 - [Quasar](http://quasar.surge.sh) The purpose of this plugin is to search and stream torrents in Kodi.
 - [Burst](http://burst.surge.sh) A torrent content provider to the Quasar plugin.
-
+​
 ## Gaming
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here
 - [/r/piratedgames](https://reddit.com/r/PiratedGames/) Talk about gaming piracy.
@@ -976,7 +976,7 @@ premium services
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
-
+​
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
 - [Dodi Repacks](https://dodi-repacks.site/) :star2: Another popular DDL and torrent repacker.
@@ -985,7 +985,7 @@ premium services
 - [qoob.name](http://qoob.name/) Repacker site in Russian
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
-
+​
 ### Emulators
 - [r/piratedgames recommended emulators](https://rentry.co/pgames-mega-thread#emulators) I don't feel like listing all of the emulators
 - [Citra](https://citra-emu.org/) :star2: 3DS Emulator. Games must be decrypted in order to play.
@@ -994,7 +994,7 @@ premium services
 - [Dolphin](https://dolphin-emu.org/) Wii and Gamecube emulator.
 - [https://desmume.org/](https://desmume.org/) DS emulator.
 - [https://mgba.io/](https://mgba.io/) GBA emulator 
-
+​
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
 - [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
@@ -1011,12 +1011,12 @@ premium services
 - [3DSCIA.com](https://www.3dscia.com/) DDL links for 3DS CIA files.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
 - [New Yuzu Piracy](https://reddit.com/r/NewYuzuPiracy/) A revived subreddit of r/YuzuPiracy after the first got taken down.
-
+​
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
 - [NoPayStation](https://nopaystation.com) A Database for PSN content including Vita, PS3, PSX, and PSP
 - See [Discord Servers](#discord-servers) for more Switch games
-
+​
 ### Homebrew and Custom Firmware
 - [3DS Hacks Guide](https://3ds.hacks.guide/) A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [/r/3dshacks](https://www.reddit.com/r/3dshacks) Nintendo 3DS hacking and homebrew.
@@ -1029,7 +1029,7 @@ premium services
 - [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
 - [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
-
+​
 ## Music
 - [MOOVAL](https://www.mooval.de/) Easily move your playlists, tracks, and likes from one streaming service to another.
 - [Madsonic](https://www.madsonic.org/) Madsonic is a web-based media library and media streamer with jukebox functionality.
@@ -1038,7 +1038,7 @@ premium services
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
-
+​
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
@@ -1050,7 +1050,7 @@ premium services
 - [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
 - [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
-
+​
 ### Music Downloading
 - [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
@@ -1065,7 +1065,7 @@ premium services
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
 - [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
 - [YouTube to MP3](https://ytformp3.com/)
-
+​
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify Adblock](https://github.com/abba23/spotify-adblock) Block spotify ads on Linux. DOES NOT WORK WITH SNAP.
@@ -1077,14 +1077,14 @@ premium services
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=4779753) Modded APK with no ads and AMOLED.
 - [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify. Spotify Premium is required.
 - [ClSpotify](https://agent255.github.io/clspotifyweb/) A Spotify downloader needing only a python interpreter and ffmpeg.
-
+​
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
 - [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-
+​
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 - [nsane.down](https://www.nsanedown.com/) A popular file-sharing forum focused on software
@@ -1097,7 +1097,7 @@ premium services
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
-
+​
 ### Adobe CC
 - [Monkrus.ws](https://w14.monkrus.ws/) :star2: Best place for cracked Adobe Products
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
@@ -1105,14 +1105,14 @@ premium services
 - [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
 - [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
-
+​
 ### Windows
 - [/f/MSToolkit](https://raddle.me/f/MSToolkit) Tools for activating Windows software, including Windows 10 itself.
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 - [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
-
+​
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
@@ -1129,17 +1129,17 @@ premium services
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
-
+​
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
-
+​
 ## Academic Papers and Material
 - [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 - [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
-
+​
 ## Textbooks
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
 - [it-ebooks](http://it-ebooks.info) Large selection of free and open-source IT ebooks
@@ -1147,7 +1147,7 @@ premium services
 - [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
-
+​
 ## Courses and Tutorials
 - [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
@@ -1158,7 +1158,7 @@ premium services
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
-
+​
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
@@ -1166,7 +1166,7 @@ premium services
 - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
 - [AudioBooks.Cloud](https://audiobooks.cloud/) DDL links for lots of audiobooks.
 - [Tokybook](https://tokybook.com/) Free audiobook streaming site.
-
+​
 ## Comicbooks
 - [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
@@ -1176,7 +1176,7 @@ premium services
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web-connected device with a modern web browser.
 - [Comix-Load](https://comix-load.in/) DDL links for comic books and manga in English and German.
 - [Omnibus](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
-
+​
 ## Manga
 - [MangaDex](https://www.mangadex.org/) :star2: MangaDex is an online manga reader that caters to all languages.
 - [Manga4Life](https://manga4life.com/) Scans of the official Manga
@@ -1194,7 +1194,7 @@ premium services
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
 - [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
 - [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
-
+​
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
 - [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
@@ -1202,7 +1202,7 @@ premium services
 - [MVGroup](http://forums.mvgroup.org/) Forum for documentary torrent and ED2K downloads. Sign-up required.
 - [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
 - [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
-
+​
 ## Fonts, Icons, and Graphics
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
@@ -1211,7 +1211,7 @@ premium services
 - [Tomato.to](https://tomato.to/) Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
 - [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
-
+​
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
@@ -1222,7 +1222,7 @@ premium services
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
 - [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
 - [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
-
+​
 ### TV Automation
 - [Sonarr](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
@@ -1230,25 +1230,25 @@ premium services
 - [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
-
+​
 ### Movie Automation
 - [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
 - [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
-
+​
 ### Music Automation
 - [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
-
+​
 ### Subtitles Automation
 - [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
 - [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
 - [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
-
+​
 ## P2P Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file-sharing network
 - [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
@@ -1257,7 +1257,7 @@ premium services
 - [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Detailed Wikipedia page about file sharing
 - [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
-
+​
 ## Ripping, Transcoding, Converting, Encoding
 - [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere.
@@ -1267,9 +1267,9 @@ premium services
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 - [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
-
+​
 ## Cloud Storage
-
+​
 ### Self-hosted File Storage or Sharing
 - [https://nextcloud.com/](https://nextcloud.com/) The self-hosted productivity platform that keeps you in control
 - [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
@@ -1277,7 +1277,7 @@ premium services
 - [Lufi](https://github.com/ldidry/lufi) Let's Upload that FIle. Encrypted file sharing.
 - [Lainsafe](https://github.com/dimethyltriptamine/lainsafe) Simple file uploading.
 - [Chibisafe](https://github.com/WeebDev/chibisafe) Blazing fast file uploader and awesome bunker written in node!
-
+​
 ### 3rd Party Cloud Storage
 - [Proton Drive](https://github.com/ProtonMail/WebClients) Beta Cloud Storage run by the same company as ProtonVPN.
 - [Crytp.ee](https://crypt.ee/) Made in europe, for your privacy, security & peace of mind. We can't read your documents or see your photos, and no one else can either.
@@ -1292,7 +1292,7 @@ premium services
 - [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
-
+​
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
 - [filebot-node](https://github.com/filebot/filebot-node) a client-server application that'll allow you to run filebot commands
@@ -1306,7 +1306,7 @@ premium services
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 - [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
-
+​
 ## Mobile Apps
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
@@ -1321,7 +1321,7 @@ premium services
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
 - [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more. Will no longer receive updates due to a Cease and Desist from Google. 
-
+​
 ### Streaming Apps
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user-friendly design
@@ -1342,7 +1342,7 @@ premium services
 - [TitaniumTV](http://titaniumtv.xyz/) Terrarium clone
 - [TVZion](https://tvzionapp.live/)
 - [UnlockMyTV](https://unlockmytv.com/) Cinema clone ad-free
-
+​
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
@@ -1351,7 +1351,7 @@ premium services
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
 - [Trireme](https://www.f-droid.org/en/packages/org.deluge.trireme/) Use this app to connect and manage your Deluge Daemon.
-
+​
 ### APKs
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
 - [F-Droid](https://f-droid.org/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
@@ -1369,7 +1369,7 @@ premium services
 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid
 - [Lucky Patcher](https://www.luckypatchers.com/) Patch mobile games to get in app purchases for free. DO NOT USE TO CHEAT IN MULTIPLAYER GAMES ELSE YOU GET BANNED.
-
+​
 ## Discord Servers
 - [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
@@ -1380,8 +1380,8 @@ premium services
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
-
-
+​
+​
 ## IPTV and DVR
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
@@ -1399,18 +1399,18 @@ premium services
 - [antennas](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes
 - [fastocloud](https://github.com/fastogt/fastocloud) IPTV/Video cloud admin panel for servers
-
+​
 ### Acestreams
 - [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
 - [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
 - [aceproxy](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
 - [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
-
+​
 ## IRC
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a hosting service.
 - [ZNC](https://github.com/znc/znc) An advanced IRC bouncer
-
+​
 ### IRC Clients
 - [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
@@ -1420,7 +1420,7 @@ premium services
 - [Shout](https://github.com/erming/shout) The self-hosted web IRC client
 - [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
 - [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
-
+​
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file-sharing network
 - [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) List of all channels on the p2p-network.net IRC network
@@ -1430,13 +1430,13 @@ premium services
 - _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
 - _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
 - _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` A nice, friendly IRC channel for trading ebooks
-
+​
 ### IRC Search Engines
 - [xWeasel](http://xweasel.org) xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
 - [ixIRC](https://ixirc.com/) ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user-supplied XDCC packs.
 - [SunXDCC](http://sunxdcc.com/) Another XDCC file search engine
 - [xdcc.eu](http://www.xdcc.eu/) XDCC search engine indexing packets from a large number of networks
-
+​
 ## DC++
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
 - [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
@@ -1446,7 +1446,7 @@ premium services
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 - [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
-
+​
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
 - [/r/fullmovierequest](https://www.reddit.com/r/fullmovierequest/)
@@ -1458,11 +1458,11 @@ premium services
 - [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
 - [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
-
+​
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
-
+​
 ## Content Discovery
 - [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
 - [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
@@ -1480,7 +1480,7 @@ premium services
 - [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
 - [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
-
+​
 ### PreDB Sites
 - [Urban Dictionary: predb](https://www.urbandictionary.com/define.php?term=predb) Urban Dictionary definition
 - [PreDB.org](https://predb.org/)
@@ -1490,7 +1490,7 @@ premium services
 - [NSW Releases](http://nswdb.com/) Nintendo Switch scene releases.
 - [3DS Releases](http://3dsdb.com/) Nintedo 3DS scene releases.
 - [NSWDBot](https://github.com/HunterKing/NSWDBot) A discord bot for scraping NSWDB.com for "Scene" releases.
-
+​
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
 - [Heimdall](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
@@ -1501,11 +1501,11 @@ premium services
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
-
+​
 ## Proxy Sites
 - [Unblocked](https://unblocked-pw.github.io/) :star2: a Proxy site for accessing your favorite blocked sites
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
-
+​
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
@@ -1519,11 +1519,10 @@ premium services
 - [Horizon.pics](https://horizon.pics) A fast, reliable and highly customizable invite only file host.
 - [Catbox.moe](https://catbox.moe) A file uploader for cats
 - [Lainsafe](https://github.com/dimethyltriptamine/lainsafe) Shitless file upload, pastebin and url shorter.
-
+​
 ## Hosters of Miscellaneous Projects
 - [http.james](https://httpjames.space/projects) :star2:
 - [Datahoarder.dev](https://datahoarder.dev/)
-- [Tedomum](https://tedomum.net/)
 - [Riverside.rocks](https://riverside.rocks/services)
 - [ebin.city](https://ebin.city/)
 - [bus-hit.me](https://bus-hit.me/)
@@ -1531,9 +1530,9 @@ premium services
 - [NixNet](https://nixnet.services/)
 - [Delegao](https://delegao.moe/)
 - [envs](https://envs.net/)
-- [roflcopter.fr](https://wtf.roflcopter.fr/apps/#Homepage)
+- [Chatons](https://entraide.chatons.org/en/) :star2: A lot of frenchmen hosting various services
 - And many more...
-
+​
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
 - [sync](https://github.com/calzoneman/sync/) Node.JS Server and JavaScript/HTML Client for synchronizing online media
@@ -1543,7 +1542,7 @@ premium services
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 - [&chill](https://andchill.tv/) Watch videos with people.
-
+​
 ## Telegram Piracy
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
 - [Piracy Links Portal](https://t.me/PiracyLinks) Official invite links portal for piracy groups & channels.
@@ -1559,11 +1558,11 @@ premium services
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
-
+​
 ## Adult Content
 - [Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/) :star2: List of full length porn tube websites.
 - [Thotsbay](https://forum.thotsbay.com) Leaked premium adult content.
-
+​
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
@@ -1596,12 +1595,12 @@ premium services
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
-
+​
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+​
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
+​
 To the extent possible under law, Tosoju has waived all copyright and
 related or neighboring rights to this work.
