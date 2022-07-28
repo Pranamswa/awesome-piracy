@@ -9,8 +9,10 @@ I also plan on adding more sections, such as
 - Nyaa Stuff
 ​
 ​
+
 I'm also mirroring this onto [rentry](https://rentry.org/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
 ​
+
 Please ensure you use an adblocker like :star2: [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 ​
 For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
