@@ -263,8 +263,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Mailbox](https://mailbox.org/en/)
 - [Disroot](https://disroot.org/)
 - [Startmail](https://startmail.com/)
-- [CTemplar](https://ctemplar.com/)
-​
+
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
