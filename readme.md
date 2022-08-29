@@ -147,7 +147,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Content Discovery](#content-discovery)
     - [PreDB Sites](#predb-sites)
 - [Dashboards and Homepages](#dashboards-and-homepages)
-- [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
 - [Hosters of Miscellaneous Projects](#hosters-of-miscellaneous-projects)
 - [Stream Synchronisation](#stream-synchronisation)
@@ -1499,11 +1498,7 @@ premium services
 - [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
-- [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
-​
-## Proxy Sites
-- [Unblocked](https://unblocked-pw.github.io/) :star2: a Proxy site for accessing your favorite blocked sites
-- [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
+- [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis
 ​
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
