@@ -4,11 +4,6 @@
 ​
 ## Preamble
 I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. 
-​
-I also plan on adding more sections, such as
-- Nyaa Stuff
-​
-​
 
 I'm also mirroring this onto [rentry](https://rentry.org/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
 ​
