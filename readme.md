@@ -978,7 +978,7 @@ premium services
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
 - [qoob.name](http://qoob.name/) Repacker site in Russian
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
-- [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+- [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff to. [Justification for including this](https://cdn.horizon.pics/nOrzLssMVQ.png)
 ​
 ### Emulators
 - [r/piratedgames recommended emulators](https://rentry.co/pgames-mega-thread#emulators) I don't feel like listing all of the emulators
